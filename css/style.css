@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Lobster');
+
+.logo{
+    font-family: 'Lobster', cursive;;
+  
+    font-size: 24px;
+  
+}
+
+.quote{
+    font-family: 'Bitter', serif;
+   font-style: italic;
+   font-weight: bold;
+   color:white !important;
+}
+
+.header_title{
+    font-family: 'Lobster', cursive;;
+    font-style: italic;
+    font-size: 44px;
+}
+
+#search{
+    margin-top:-40px;
+}
+
+.search_text{
+    font-family: 'Lobster', serif;
+    font-style: italic;
+   
+   
+}
+
+.section-search input{
+    font-family: 'Bitter', serif;
+    padding:8px !important;
+  
+    width:90% !important;
+    font-size:18px !important;
+}
+
+.quote_find_2{
+    font-family: 'Lobster', serif !important;
+    font-style: italic;
+    font-size: 1.5em !important;
+    width:90%;
+    text-align:center !important;
+    margin:auto;
+}
+
+.quote_find{
+    font-family: 'Bitter', serif !important;
+    font-style: italic;
+    font-size: 1em !important;
+}
+
+.img_grey{
+    filter: grayscale(80%);
+}
+
+.card_t{
+    font-family: 'Lobster', serif !important;
+    font-style: italic !important;
+    font-size: 1.5em !important;
+    text-align: center !important;
+
+}
+
+.contact_t{
+    font-family: 'Lobster', serif !important;
+    font-style: italic !important;
+    font-size: 38px !important;
+    text-decoration: underline;
+}
+
+.contact_p{
+    font-family: 'Bitter', serif !important;
+    font-style: italic !important;
+    font-size: 22px !important;
+}
+
+.section-fallow .fa-4x{
+    margin:5px 15px;
+}
+
+.head_li{
+    font-family: 'Lobster', serif !important;
+    font-style: italic !important;
+    font-size: 2em !important;
+   
+}
+
+.item_li{
+    font-family: 'Bitter', serif !important;
+    font-style: italic !important;
+    font-size: 1em !important;
+  
+}
